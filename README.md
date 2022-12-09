@@ -19,7 +19,7 @@ preview
 
 - 🔭 I’m currently working on **Flutter Project**
 
-- 🌱 I’m currently learning **more about**
+- 🌱 I’m currently learning **more about software development**
 
 - 👯 I’m looking to collaborate with **other Developers and learn from them**
 
