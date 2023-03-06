@@ -2,11 +2,12 @@
 <h3 align="center">Mobile Applications Developer (Android | Flutter), Bachelor of computer science</h3>
 
 
+
 - I just finished an [Easy Commerce Application](https://play.google.com/store/apps/details?id=com.topbuys.top_buys&hl=en&gl=US)
 
 - 🤝I’m always strive to **develop in my work and I always aspire to know what is new in my field of work to improve my quality and raise my standards**
 
-- 👯 I’m looking to collaborate with **other Developers and learn from them**
+- 👯 I’m looking to collaborate with **other Developers who have more experience and share knowledge with my colleagues**
 
 - 💬 Ask me about **Android, Flutter, Software Principles**
 
