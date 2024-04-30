@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salah</h1>
 <h3 align="center">Mobile Applications Developer (Android | Flutter), Bachelor of computer science</h3>
-<h2 align="center">Flutter Developer [GoooBig](https://www.gooobig.sa/)</h2>
 
+- Flutter Developer [GoooBig](https://www.gooobig.sa/)
 
 - I just finished an [Easy Commerce Application](https://play.google.com/store/apps/details?id=com.topbuys.top_buys&hl=en&gl=US)
 
