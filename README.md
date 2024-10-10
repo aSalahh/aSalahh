@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android, Flutter, Software Principles**
 
-- 📫 How to reach me **a.sala7.cs@gmail.com**
+- 📫 How to reach me **devsalah.cs@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ggO9yas8LXcIslJ9PexjWq2tHJmWJmu9/view?usp=sharing](https://drive.google.com/file/d/1ggO9yas8LXcIslJ9PexjWq2tHJmWJmu9/view?usp=sharing)
 
